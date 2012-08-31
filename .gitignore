@@ -1,0 +1,11 @@
+*.o
+.deps/
+make-*
+tests/
+Makefile
+js/
+jscoverage*
+config.*
+resources.c
+stamp-h1
+generate-resources
